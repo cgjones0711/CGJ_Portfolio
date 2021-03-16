@@ -1,7 +1,8 @@
 * {
     box-sizing: border-box;
-    padding: 0;
-    margin: 0;
+    padding: 20;
+    margin: 20;
+    background-color: lightslategray;
 }
 body {
     background-color: mintcream;
@@ -30,6 +31,15 @@ body {
     border-color: lightpink;
     padding: 15px;
     list-style-type: none;
+    display: block;
+}
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-size: cover;
+    background-position: center;
 
 }
 .link-container {
@@ -37,10 +47,28 @@ body {
     flex-direction: row;
     justify-content: center;
     }
-    @media only screen and (max-width: 600px) {
+    @media only screen and (max-width: 750px) {
  .link-container {
           flex-direction: column;
           align-items: center;
         }
     }
+.footer {
+        text-align: center;
+        list-style-type: none;
+        background-color: rgb(14, 170, 218);
+        
 
+    }
+.contact-links{
+    text-align: center;
+    list-style-type: none;}
+
+.footer {
+    text-align: center;
+    list-style-type: none;
+}
+.link-container2 {
+    list-style-type: none;
+    
+}
