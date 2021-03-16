@@ -24,6 +24,14 @@ body {
     margin-right: auto;
     width: 25%;
   }
+
+.border {
+    border-style: double;
+    border-color: lightpink;
+    padding: 15px;
+    list-style-type: none;
+
+}
 .link-container {
     display: flex;
     flex-direction: row;
@@ -35,3 +43,4 @@ body {
           align-items: center;
         }
     }
+
