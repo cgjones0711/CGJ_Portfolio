@@ -10,12 +10,14 @@ body {
 
 .header {
     font-family: monospace;
-    font-size: larger;
+    font-size: 20px;
     padding: 10px;
     color: rgb(2, 1, 12);
     background-color: rgb(14, 170, 218);
     width: 100%;
+    ;
 }
+
 .header h1 {text-align: center;
     
 }
@@ -74,4 +76,13 @@ body {
 }
 .content {
    
+}
+
+#My-Work {
+    min-height: 200px;
+    line-height: ;
+
+}
+#About-Me {
+    
 }
