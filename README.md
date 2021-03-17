@@ -7,5 +7,9 @@ Technologies used:
     o CSS
 
 Launch:
-   
-    
+https://cgjones0711.github.io/CGJ_Portfolio/
+https://github.com/cgjones0711/CGJ_Portfolio.git
+Snap shots:
+    <img src="./Assets/Header.png" alt="">
+    <img src="./Assets/Main.png" alt="">
+    <img src="./Assets/Footer.png" alt="">
