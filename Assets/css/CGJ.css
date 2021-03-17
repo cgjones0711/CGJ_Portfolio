@@ -35,7 +35,7 @@ body {
     border-color: lightpink;
     padding: 15px;
     list-style-type: none;
-    display: block;
+    
 }
 
 .hero {
@@ -61,14 +61,15 @@ body {
     }
 
 
-    #about {
+    #aboutMe {
         border-style: solid;
         margin: 50px;
         line-height: .8cm;
+    text-align: center;
     }
           
 
-#work{
+#myWork{
     border-style: solid;
     margin: 50px;
     text-align: center;
