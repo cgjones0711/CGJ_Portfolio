@@ -7,5 +7,5 @@ Technologies used:
     o CSS
 
 Launch:
-    https://github.com/cgjones0711/CGJ_Portfolio.git
+   
     
